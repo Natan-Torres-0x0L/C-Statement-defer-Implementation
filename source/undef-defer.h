@@ -1,0 +1,2 @@
+#undef defer
+#undef return
